@@ -1,0 +1,49 @@
+
+.display-form {
+    padding: 0 50px;
+    width: 100%;
+}
+
+#cv-template {
+    display: none;
+}
+
+.display-temp {
+    border: 1px solid rgba(0, 0, 0, 0.233);
+}
+
+.left-box {
+    width: 30%;
+    padding-top: 100px;
+}
+
+.right-box {
+    width: 70%;
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+.profile {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.background {
+    background-color: #5ca37b;
+    color: white;
+}
+
+a {
+    color: white
+}
+
+
+#nameT1 {
+    font-family: sans-serif;
+    margin-top: 15px;
+    font-size: 1.9rem;
+}
+
+.container p i {
+    margin-right: 3px;
+}
